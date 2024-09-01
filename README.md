@@ -1,7 +1,5 @@
 ### Hi there, my name is Kenny. 👋
 
-### About me
-
 - Current IT QA Assistant @ Ontario Ministry of Education 🍎
 - Aspiring full stack software developer, looking for SWE internship opportunities 💻
 - HBSc. in Computer Science at University of Toronto, expected to graduate December 2025 🎓
