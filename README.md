@@ -7,7 +7,8 @@
 
 ## What I've been working on 🔨
 
-- [Systemwise.ca](https://systemwise.ca/)
+- [SystemWise](https://systemwise.ca/)
+- [Portfolio](https://cheny.dev/)
 
 ## My Tech Stack 📚
 
