@@ -4,6 +4,7 @@
 - Aspiring full stack software developer, looking for SWE internship opportunities 💻
 - HBSc. in Computer Science at University of Toronto, expected to graduate December 2025 🎓
 
+<!--
 ### My Tech Stack
 
 #### Technologies
