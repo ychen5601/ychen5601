@@ -1,9 +1,9 @@
 ## Hi there, my name is Kenny. 👋
 
-- Current IT QA Assistant @ Ontario Ministry of Education 🍎
-- Aspiring full stack software developer 💻
-- HBSc. in Computer Science at University of Toronto, expected to graduate December 2025 🎓
-- Former QA Automation Coop @ TheScore 🎮
+- Incoming Software Developer Intern at Dayforce (formerly Ceridian) 🔵
+- Aspiring software developer + tech enthusiast 💻
+- HBSc. in Computer Science at University of Toronto, expected to graduate June 2026 🎓
+- Former IT QA Assistant @ Ontario Ministry of Education 🍎, QA Automation Coop @ TheScore 🎮
 
 ## What I've been working on 🔨
 
