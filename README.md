@@ -1,7 +1,6 @@
 ## Hi there, my name is Kenny. 👋
 
-- Incoming Software Developer Intern at Dayforce (formerly Ceridian) 🔵
-- Aspiring software developer + tech enthusiast 💻
+- Software Developer Intern at Dayforce (formerly Ceridian) 🔵
 - HBSc. in Computer Science at University of Toronto, expected to graduate June 2026 🎓
 - Former IT QA Assistant @ Ontario Ministry of Education 🍎, QA Automation Coop @ TheScore 🎮
 
